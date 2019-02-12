@@ -4,3 +4,5 @@ ports:
   - port: 6080
     protocol: "http"
     onOpen: open-browser
+  - port: 5554
+  - port: 5555
